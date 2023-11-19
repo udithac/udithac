@@ -20,9 +20,10 @@ Data Analyst and Business Intelligence Specialist with a proven track record in 
 
 ### Systems Analyst | Sri Lanka Bureau of Foreign Employment-SLBFE | May 2003 – Nov. 2007
 
-- Specialized in advanced data segmentation and analysis of brand adoption behavior.
-- Optimized SQL queries to improve database performance.
-- Played a key role in preparing management reports for CSI, NPS, and KPIs for customer-focused staff and branch operations.
+- Led the implementation of FEMIS, a cost-saving solution for Sri Lankan foreign employment, still operational today.
+- Managed a team of 7 programmers and 2 technicians, showcasing collaboration skills and achieving project success.
+- Oversaw the World Bank-funded e-Foreign Employment Project, guided by ICTA-Sri Lanka, demonstrating effective project management.
+- Key contributor to ISO 9001:2008 certification and the launch of SLBFE's secure website.
 
 ## Education
 
