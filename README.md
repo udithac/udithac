@@ -42,7 +42,7 @@ Data Analyst and Business Intelligence Specialist with a proven track record in 
 
 ## Contact
 
-- LinkedIn: [Uditha Wickramaarachchi](https://www.linkedin.com/in/udithawickramaarachchi/)
+- LinkedIn: [Uditha Wickramaarachchi](https://www.linkedin.com/in/udithac/)
 - Email: udithac@gmail.com
 - GitHub: [udithac](https://github.com/udithac)
 - Mobile: (+49) 152 1950 1650
