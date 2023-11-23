@@ -2,7 +2,7 @@
 
 ## Summary
 
-Data Analyst and Business Intelligence Specialist with a proven track record in optimizing SQL queries, implementing effective data solutions, and driving informed decision-making. Currently pursuing a Master of Data Science at the University of Europe for Applied Sciences, Berlin. Dedicated to achieving excellence in data analysis, business intelligence, and making a meaningful impact through strategic insights.
+Data Analyst and Business Intelligence Specialist with a proven track record in optimizing SQL queries, implementing effective data solutions, and driving informed decision-making. Experienced in ETL processes and full-stack development, with a focus on delivering comprehensive data solutions. Currently pursuing a Master of Data Science at the University of Europe for Applied Sciences, Berlin. Dedicated to achieving excellence in data analysis, business intelligence, and making a meaningful impact through strategic insights.
 
 ## Experience
 
@@ -33,13 +33,33 @@ Data Analyst and Business Intelligence Specialist with a proven track record in 
 
 ## Skills
 
-- Python, SQL, Agile, Jira, IT Management
+**Frontend Skills:**
+- .NET, Nuxt.js (Vue.js)
+
+**Backend Skills:**
+- .NET Core, Java (Spring Boot Webflux)
+
+**Database Technologies:**
+- SQL Query Optimization, In-memory Databases, Relational Databases (e.g., MySQL, PostgreSQL), NoSQL Databases (e.g., MongoDB)
+
+**Data Analysis and Business Intelligence:**
+- Data Analysis and Visualization, Business Intelligence, ETL (Extract, Transform, Load) Processes
+
+**Cloud Technologies:**
 - AWS (Lambda, RDS, S3), Serverless Applications, Cloud Computing, Cloud-based Data Processing
-- Data Analysis, Data Visualization, Power BI
-- ETL Concepts, Data Warehousing, Data Storage Systems, Data Processing, Data Modeling, Data Structures, A/B testing
-- Exploratory Data Analysis and Data Preprocessing (EDA), Google Colab, Profiling, Classification, TensorFlow, PyTorch, KNN Algorithms, Jupiter Notebook, GitHub, Git 
-- Machine Learning, Advance ANN, TensorFlow, Keras, Unsupervised Learning, Feature Selection, Model Selection and Tuning, FMST, Model Tuning, Feature Engineering, Ensemble Techniques, Decision Trees, Supervised Learning, Logistic Regression, Linear Regression
-- Sentiment Analysis, Computer Vision, Neural Networks.
+
+**Development Practices:**
+- Full-Stack Development, Agile, Jira, IT Management
+
+**Data Science and Machine Learning:**
+- Data Modeling, Data Structures, A/B testing, Exploratory Data Analysis (EDA), Google Colab, Profiling, Classification, TensorFlow, PyTorch, KNN Algorithms, Jupiter Notebook, GitHub, Git
+
+**Machine Learning:**
+- Advance Artificial Neural Networks (ANN), Unsupervised Learning, Feature Selection, Model Selection and Tuning, FMST, Model Tuning, Feature Engineering, Ensemble Techniques, Decision Trees, Supervised Learning, Logistic Regression, Linear Regression
+
+**Additional Expertise:**
+- Sentiment Analysis, Computer Vision, Neural Networks
+
 
 ## Contact
 
