@@ -1,6 +1,6 @@
 # Uditha Wickramaarachchi 
 
-## |Data Analyst|Business Intelligence Specialist |ETL Specialist|Full Stack Developer
+## Data Analyst| Business Intelligence Specialist | ETL Specialist| Full Stack Developer
 
 ## Summary
 
