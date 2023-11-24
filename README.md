@@ -8,19 +8,19 @@ Data Analyst and Business Intelligence Specialist with a proven track record in 
 
 ## Experience
 
-### Assistant Manager | Al-Babtain Group of Companies | Oct. 2022 – Jul. 2023
+### Assistant Manager | Al-Babtain Group of Companies, State of Kuwait | Oct. 2022 – Jul. 2023
 
 - Utilized advanced analytical techniques (SQL, Python) to extract, analyze, and optimize diverse datasets.
 - Led the design and implementation of complex SQL queries, achieving a 99% data accuracy rate.
 - Successfully migrated to a cloud-based ERP system (Titan), resulting in a 90% improvement in data handling efficiency.
 
-### Senior Information Technology Analyst | Al-Mutawa Group of Companies | Dec. 2007 – Oct. 2022
+### Senior Information Technology Analyst | Al-Mutawa Group of Companies, State of Kuwait | Dec. 2007 – Oct. 2022
 
 - Specialized in advanced data segmentation and analysis of brand adoption behavior.
 - Optimized SQL queries for enhanced database performance.
 - Integrated manual processes into a customized cloud-based ERP system, CDK Autoline (UK), resulting in an 80% increase in operational efficiency.
 
-### Systems Analyst | Sri Lanka Bureau of Foreign Employment-SLBFE | May 2003 – Nov. 2007
+### Systems Analyst | Sri Lanka Bureau of Foreign Employment-SLBFE, Sri Lanka | May 2003 – Nov. 2007
 
 - Led the implementation of FEMIS, a cost-saving solution for Sri Lankan foreign employment, still operational today.
 - Managed a team of 7 programmers and 2 technicians, showcasing collaboration skills and achieving project success.
