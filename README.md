@@ -1,6 +1,6 @@
 # Uditha Wick | Data Enthusist 
 
-![Profile Image](link-to-your-image) 
+<!-- ![Profile Image](link-to-your-image) -->
 
 📧 **Email:** [udithac@gmail.com](mailto:udithac@gmail.com)  
 📞 **Phone:** +4915566226766  
@@ -77,5 +77,5 @@ Feel free to explore my repositories to see more of my work and projects. If you
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=uditha-wick)
+<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=uditha-wick) -->
 
