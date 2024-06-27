@@ -1,4 +1,4 @@
-# Uditha Wick | Data Enthusist 
+# Uditha Wick | Data Enthusiast 
 
 <!-- ![Profile Image](link-to-your-image) -->
 
