@@ -107,7 +107,7 @@ Data Science and Business Analytics Professional with **15+ years of experience*
 
 ---
 
-Feel free to connect with me on LinkedIn or drop me an email for collaboration opportunities!  
+
 
 <!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=uditha-wick) -->
 
