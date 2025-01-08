@@ -4,7 +4,7 @@
 
 📧 **Email:** [udithac@gmail.com](mailto:udithac@gmail.com)  
 📞 **Phone:** +4915566226766  
-🌐 **LinkedIn:** [linkedin.com/in/udithac](https://www.linkedin.com/in/udithac/)
+🌐 **LinkedIn:** [linkedin.com/in/udithac](https://www.linkedin.com/in/udithawick/)
 
 ---
 
