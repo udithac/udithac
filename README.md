@@ -107,7 +107,7 @@ Data Science and Business Analytics Professional with **15+ years of experience*
 
 ---
 
-
+UpdatedOn 8/1/2025 @Berlin
 
 <!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=uditha-wick) -->
 
